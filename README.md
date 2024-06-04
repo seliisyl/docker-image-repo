@@ -1,2 +1,2 @@
 # docker-image-repo
-Dockerfile et configurer un workflow GitHub Actions pour automatiser la construction et le push d'une image Docker vers le registre de conteneurs GitHub.
+Dockerfile and configure a GitHub Actions workflow to automate building and pushing a Docker image to the GitHub container registry.
